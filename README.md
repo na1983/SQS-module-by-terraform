@@ -1,0 +1,1 @@
+# SQS-module-by-terraform
